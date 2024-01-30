@@ -1,3 +1,7 @@
+This is a fork of the tensorflow-1-public repo for DeepLearning.AI TensorFlow Developer Professional Certificate.
+
+Assignments are completed by Bobby Bose
+
 # DeepLearning.AI TensorFlow Developer
 
 Welcome to the public repo for this course.
